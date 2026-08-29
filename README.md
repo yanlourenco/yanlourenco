@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&height=60&lines=YAN+LOUREN%C3%87O;SOFTWARE+ENGINEERING;PROMPT+ENGINEERING" alt="Yan Lourenco" />
+  <img src="https://raw.githubusercontent.com/yanlourenco/yanlourenco/main/header.svg" width="100%" alt="Yan Lourenco Contribution Grid Header" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yan-lourenço-paulo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:y.lourencopaulo1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/yanlourenco"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+  <br/><br/>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/yan-lourenço-paulo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:y.lourencopaulo1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/yanlourenco"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 
 </div>
 
