@@ -1,102 +1,85 @@
 <div align="center">
 
-# Olá, mundo! 👋 Eu sou o Yan Lourenço Paulo
+# Yan Lourenço Paulo
+### Software Engineering Student • Prompt Engineer • Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Desenvolvedor+C%23+%7C+.NET+%7C+Python+%7C+JS+%E2%9A%A1;Jovem+Aprendiz+na+CPTM+%F0%9F%9A%86;Entusiasta+de+Prompt+Engineering+%26+Vibe+Coding+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Engenharia+de+Software+%40+Graduando;Python+%E2%80%A2+JavaScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Git;Jovem+Aprendiz+Administrativo+%40+CPTM;Engenharia+de+Prompt+%26+IA+Generativa)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://linkedin.com/in/yanlourenco" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:y.lourencopaulo1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/yanlourenco"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+</div>
+
+---
+
+### 💼 Perfil Profissional
+
+Desenvolvedor em formação contínua, com formação técnica em **Desenvolvimento de Sistemas** e graduação em andamento em **Engenharia de Software**.
+
+Atuo na **CPTM** no setor administrativo, desenvolvendo disciplina analítica, organização de fluxos operacionais e governança de processos — competências essenciais que direciono para o desenvolvimento de software escalável, seguro e bem documentado.
+
+Combino fundamentos de ciência da computação com metodologias de **Engenharia de Prompt** e fluxos de inteligência artificial aplicada, acelerando ciclos de desenvolvimento sem abrir mão de boas práticas e código limpo.
+
+---
+
+### ⚡ Stack & Tecnologias
+
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,js,postgres,git,github,vscode" alt="Tech Stack" />
+  </a>
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yanlourenco)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.lourencopaulo1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanlourenco)
+- **Linguagens & Dados:** Python, JavaScript, SQL (PostgreSQL).
+- **Infraestrutura & Ferramentas:** Neon Serverless PostgreSQL, Git, GitHub, VS Code.
+- **Práticas & Metodologias:** Engenharia de Prompt, Vibe Coding, Análise de Processos e Clean Code.
 
+---
+
+### 🚀 Projetos & Soluções
+
+#### 🥗 **Vitta Nutri** — *Plataforma de Gestão Nutricional*
+- Arquitetura moderna integrada a banco de dados relacional serverless **Neon PostgreSQL**.
+- Práticas avançadas de segurança e infraestrutura: gestão de credenciais e segredos via `.env` e pipelines de deploy automatizados.
+- `Python / JS` • `PostgreSQL` • `Cloud Deployment` • `Database Security`
+
+#### 🐍 **Lógica & Algoritmos** — *Estruturas e Computação Aplicada*
+- Conjunto de implementações voltadas à eficiência algorítmica em **Python**, cobrindo funções parametrizadas, cálculos estatísticos e mapeamento de lógica estruturada.
+- Consolidação de base em algoritmos, fluxogramas e estruturas de decisão.
+- `Python` • `Algoritmos` • `Data Structures` • `Lógica Computacional`
+
+---
+
+### 🎮 Snake Game • Gráfico de Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanlourenco/yanlourenco/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanlourenco/yanlourenco/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Grid" src="https://raw.githubusercontent.com/yanlourenco/yanlourenco/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mim
-
-Sou formado como **Técnico em Desenvolvimento de Sistemas** e atualmente estou cursando **Engenharia de Software**. 
-
-- 💼 **Experiência Atual:** Atuo como **Jovem Aprendiz Administrativo na CPTM**, aplicando organização, análise de processos e rigor metodológico — competências que transponho diariamente para o desenvolvimento de software limpo e eficiente.
-- 🎯 **Foco Técnico:** Arquitetura de software com o ecossistema Microsoft (**C# / .NET**), scripts e automações em **Python**, e bancos de dados modernos (**PostgreSQL / Neon DB**).
-- 🚀 **Inovação & IA:** Apaixonado por **Engenharia de Prompt** e práticas de **Vibe Coding**, utilizando as mais recentes ferramentas de inteligência artificial para acelerar a entrega de código de alta qualidade.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br><sub><b>C#</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-      <br><sub><b>.NET</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br><sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-```markdown
-🧠 Core Stacks: C# • .NET • Python • JavaScript • PostgreSQL • Neon Serverless • Git/GitHub
-⚡ Specialities: Engenharia de Prompt • Vibe Coding • Estruturas de Dados • Clean Code
-```
-
----
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias | Destaque Arquitetural |
-| :--- | :--- | :--- | :--- |
-| ☕ **La Caffetteria** | Sistema comercial para gerenciamento de cafeteria e pedidos. | `C#` `.NET` `POO` | Arquitetura modular Microsoft e boas práticas de modelagem de domínio. |
-| 🥗 **Vitta Nutri** | Aplicação completa para acompanhamento e planejamento nutricional. | `PostgreSQL` `Neon DB` `Deploy` | Integração de banco de dados Serverless e segurança com variáveis de ambiente (`.env`). |
-| 🐍 **Lógica & Algoritmos** | Repositório de consolidação de fundamentos da ciência da computação. | `Python` `Algoritmos` | Estruturas de decisão, funções recursivas, cálculos estatísticos e fluxogramas. |
-
----
-
-### 📊 Estatísticas do GitHub
+### 📊 Desempenho & Atividade no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yanlourenco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Yan's GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanlourenco&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=yanlourenco&show_icons=true&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=94a3b8&bg_color=0d1117" alt="Yan's GitHub stats" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanlourenco&layout=compact&theme=tokyonight&hide_border=true&title_color=60a5fa&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanlourenco&theme=tokyonight&hide_border=true" alt="Yan's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanlourenco&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-
-⭐ **Obrigado por visitar meu perfil!** Sinta-se à vontade para explorar meus repositórios e se conectar comigo.
-
+  <sub>⚡ Desenvolvido com foco em precisão, engenharia de software e inovação contínua.</sub>
 </div>
