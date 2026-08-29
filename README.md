@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Engenharia+de+Software+%40+Graduando;Python+%E2%80%A2+JavaScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Git;Jovem+Aprendiz+Administrativo+%40+CPTM;Engenharia+de+Prompt+%26+IA+Generativa)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/yanlourenco" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yan-lourenço-paulo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:y.lourencopaulo1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/yanlourenco"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
